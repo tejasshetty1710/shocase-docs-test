@@ -19,7 +19,7 @@ Open `/manage-status-page`. Confirm that the page lists the status pages you hav
 
 ![Screenshot 2](./images/open-a-status-page-and-review-its-published-services-2.png)
 
-Move down to the **Services** section, where **Acme Blog** is listed.
+Scroll to the **Services** section - **Acme Blog** sits at the top of the list. (Edited by a person, in the repo.)
 
 Confirm that the page has one group named Services and that Acme Blog is listed first.
 
