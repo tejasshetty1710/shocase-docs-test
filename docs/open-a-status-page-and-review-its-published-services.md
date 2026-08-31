@@ -21,7 +21,7 @@ Open `/manage-status-page`. Confirm that the page lists the status pages you hav
 
 Scroll to the **Services** section - **Acme Blog** sits at the top of the list. (Edited by a person, in the repo.)
 
-Confirm that the page has one group named Services and that Acme Blog is listed first.
+(Previewed from a pull request.) Confirm that the page has one group named Services and that Acme Blog is listed first.
 
 Confirm **Services** lists **Acme Blog** first, followed by **Acme Careers Page**.
 
